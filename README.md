@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
-<h3 align="center">A passionate web developer from Belgium</h3>
 
-# 💫 About Me:
-🔭 I’m currently working with react typescript<br><br>🌱 I’m currently learning c#, Vue.js and goes further with react<br>
+
 
 
 ## 🌐 Socials:
